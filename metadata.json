@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Strip Comic Maker",
+  "description": "An application that uses AI to generate a 6-panel comic strip from a user's story prompt, creating both images and narrative text.",
+  "requestFramePermissions": []
+}
